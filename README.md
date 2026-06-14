@@ -29,7 +29,7 @@ Early detection of neurological disorders such as dysarthria is crucial for effe
 
 ## 🔄 Project Pipeline
 
-The project follows an end-to-end workflow, from raw data ingestion to final model evaluation and calibration. All stages were fully automated and reproducible in code, designed and implemented by Minhyuk Son.
+The project follows an end-to-end workflow, from raw data ingestion to final model evaluation and calibration. All stages were fully automated and reproducible in code, designed and implemented by Minhyeok Son.
 
 **Pipeline Overview:**
 
@@ -70,7 +70,7 @@ The project follows an end-to-end workflow, from raw data ingestion to final mod
 
 ## 🛠️ Models & Methods
 
-Multiple deep learning strategies were explored to maximize both classification accuracy and prediction reliability for dysarthria detection. All modeling, experimentation, and analysis were led by Minhyuk Son.
+Multiple deep learning strategies were explored to maximize both classification accuracy and prediction reliability for dysarthria detection. All modeling, experimentation, and analysis were led by Minhyeok Son.
 
 ### 1. Baseline Model (Custom CNN)
 - Lightweight CNN trained directly on 28x28 log-mel spectrogram images.
@@ -101,7 +101,7 @@ Multiple deep learning strategies were explored to maximize both classification 
 - Assessed not only traditional metrics (accuracy, precision, recall, F1) but also model calibration using ECE (Expected Calibration Error) and OE (Overconfidence Error).
 - Identified and addressed reliability gaps for real-world clinical deployment.
 
-> All model design, training, and evaluation scripts were authored and maintained by Minhyuk Son, with a focus on both reproducibility and real-world applicability.
+> All model design, training, and evaluation scripts were authored and maintained by Minhyeok Son, with a focus on both reproducibility and real-world applicability.
 
 ## 📈 Results
 
@@ -132,7 +132,7 @@ The project achieved significant improvements in both classification accuracy an
 
 ## 🧑‍💻 What I Learned & Future Work
 
-Through this project, I (Minhyuk Son) gained extensive experience in:
+Through this project, I (Minhyeok Son) gained extensive experience in:
 - Building and automating end-to-end deep learning pipelines for real-world healthcare data.
 - Applying advanced model calibration techniques to improve clinical trust in machine learning predictions.
 - Experimenting with ensemble and knowledge distillation methods for both performance and efficiency.
